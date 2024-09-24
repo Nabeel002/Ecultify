@@ -36,11 +36,11 @@ Make sure you have the following installed on your system:
  ```bash   
 cd Ecultify
 
+ ```bash 
+npm install
 
-3. npm install
-
-
-4. npm run dev
+ ```bash 
+npm run dev
 
 
 
