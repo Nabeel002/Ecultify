@@ -38,7 +38,7 @@ const footerData = [
 const Footer = () => {
     return (
         <>
-            <section className='flex justify-center ml-[50px] mr-[50px] md:ml-auto md:mr-auto md:justify-between flex-wrap md:w-[82%] mt-[100px] '>
+            <section className='flex flex-col items-center md:items-start md:flex-row  justify-center ml-[50px] mr-[50px] md:ml-auto md:mr-auto md:justify-between flex-wrap md:w-[82%] mt-[100px] '>
                 <div className='mb-4 md:mb-0'>
                     <Image src='/images/main-Icon.svg' width={23} height={20} />
                     <div className='flex gap-4'>
