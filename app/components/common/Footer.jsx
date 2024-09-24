@@ -42,10 +42,10 @@ const Footer = () => {
                 <div className='mb-4 md:mb-0'>
                     <Image src='/images/main-Icon.svg' width={23} height={20} />
                     <div className='flex gap-4'>
-                        <Image src='/images/X-logo.svg' width={23} height={20} />
+                        <Image src='/images/X-Logo.svg' width={23} height={20} />
                         <Image src='/images/Instagram.svg' width={23} height={20} />
-                        <Image src='/images/Youtube.svg' width={35} height={35} />
-                        <Image src='/images/linkedin.svg' width={35} height={35} />
+                        <Image src='/images/YouTube.svg' width={35} height={35} />
+                        <Image src='/images/Linkedin.svg' width={35} height={35} />
                     </div>
                 </div>
 
