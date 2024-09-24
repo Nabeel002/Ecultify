@@ -6,32 +6,38 @@ const TestimonialSection = () => {
         {
             imageUrl: "/images/profile-img.png",
             title: "Title",
-            description: "Description"
+            description: "Description",
+            quoteText: "Quote"
         },
         {
             imageUrl: "/images/profile-img.png",
             title: "Title",
-            description: "Description"
+            description: "Description",
+            quoteText: "Quote"
         },
         {
             imageUrl: "/images/profile-img.png",
             title: "Title",
-            description: "Description"
+            description: "Description",
+            quoteText: "Quote"
         },
         {
             imageUrl: "/images/profile-img.png",
             title: "Title",
-            description: "Description"
+            description: "Description",
+            quoteText: "Quote"
         },
         {
             imageUrl: "/images/profile-img.png",
             title: "Title",
-            description: "Description"
+            description: "Description",
+            quoteText: "Quote"
         },
         {
             imageUrl: "/images/profile-img.png",
             title: "Title",
-            description: "Description"
+            description: "Description",
+            quoteText: "Quote"
         },
     ]
     return (
@@ -45,7 +51,7 @@ const TestimonialSection = () => {
 
             <div className='grid grid-rows-2  grid-cols-[repeat(auto-fit,minmax(350px,1fr))]  justify-center items-center gap-y-5  gap-x-10 mt-[48px]' >
                 {testiMonialData.map((item, index) => (
-                    <TestimonialCard imageUrl={item.imageUrl} title={item.title} content={item.description}/>
+                    <TestimonialCard imageUrl={item.imageUrl} title={item.title} content={item.description} quote={item.quoteText} key={index}/>
                 ))}
               
             </div>
