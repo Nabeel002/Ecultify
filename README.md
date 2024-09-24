@@ -32,9 +32,14 @@ Make sure you have the following installed on your system:
 
    ```bash
    git clone https://github.com/Nabeel002/Ecultify.git
- ```bash
-npm install
-npm run dev
+   
+2. Change the directory into that project
+   ```bash
+   cd Ecultify
+
+3. Install dependency
+   ```bash
+   npm i
 
 
 
