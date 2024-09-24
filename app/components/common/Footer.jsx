@@ -45,7 +45,7 @@ const Footer = () => {
                         <Image src='/images/X-Logo.svg' width={23} height={20} />
                         <Image src='/images/Instagram.svg' width={23} height={20} />
                         <Image src='/images/YouTube.svg' width={35} height={35} />
-                        <Image src='/images/Linkedin.svg' width={35} height={35} />
+                        <Image src='/images/LinkedIn.svg' width={35} height={35} />
                     </div>
                 </div>
 
