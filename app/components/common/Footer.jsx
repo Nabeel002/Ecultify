@@ -44,8 +44,8 @@ const Footer = () => {
                     <div className='flex gap-4'>
                         <Image src='/images/X-Logo.svg' width={23} height={20} />
                         <Image src='/images/Instagram.svg' width={23} height={20} />
-                        <Image src='/images/YouTube.svg' width={35} height={35} />
-                        <Image src='/images/LinkedIn.svg' width={35} height={35} />
+                        <Image src='/images/YouTube.svg' width={34} height={34} />
+                        <Image src='/images/LinkedIn.svg' width={30} height={30} />
                     </div>
                 </div>
 
