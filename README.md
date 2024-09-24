@@ -32,15 +32,13 @@ Make sure you have the following installed on your system:
 
    ```bash
    git clone https://github.com/Nabeel002/Ecultify.git
-   
- ```bash   
-cd Ecultify
-
- ```bash 
+ ```bash
 npm install
-
- ```bash 
 npm run dev
+
+
+
+
 
 
 
