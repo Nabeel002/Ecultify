@@ -33,7 +33,8 @@ Make sure you have the following installed on your system:
    ```bash
    git clone https://github.com/Nabeel002/Ecultify.git
    
-2. cd Ecultify
+ ```bash   
+cd Ecultify
 
 
 3. npm install
