@@ -13,3 +13,4 @@ This project is a dynamic and fully responsive landing page built using Next.js 
 
 ## Project Structure
 
+![image](https://github.com/user-attachments/assets/4f3d56d8-052a-4007-9714-a8030fe406b2)
